@@ -1,7 +1,7 @@
 """
 Created on Mon Dec 13 20:10:24 2021
 
-@author: Najma
+@author: NAJMA
 """
 import cv2
 import sys
