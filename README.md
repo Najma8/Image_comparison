@@ -11,6 +11,6 @@ The program uses "SIFT" function to compute and detect keypoints and descriptors
 
 Overall the program generates 2 images (Difference and Result), calculates the similarity percentage and total fair points.
 
-cmd input example: main.py -i1 C:\Users\Folder1\photo1.png -i2 C:\Users\Folder1\photo2.png -o C:\Users\Folder2\Sub_folder -d D:\Folder3\Sub_folder -bg white -s true
+cmd input example: main.py -i1 C:\Users\Folder1\photo1.png -i2 C:\Users\Folder1\photo2.png -o C:\Users\Folder2\Sub_folder -d D:\Folder3\Sub_folder -s true
 
--i1: path_to_Image1, -i2: path_to_Image2, -o: path to "output" image, -d: path to "difference" image, -bg: background color for "output" and "difference" images, -s: show images(true) don't show images(false)
+-i1: path_to_Image1, -i2: path_to_Image2, -o: path to "output" image, -d: path to "difference" image, -s: show images(true)/don't show images(false)
